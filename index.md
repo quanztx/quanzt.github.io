@@ -1,63 +1,38 @@
-## Welcome to My GitHub Pages
+# Welcome to My Pages
 
-### Zhentan Quan
-Master Student, (Co-supervised with Prof. Chen Shengli), Class of 2021
+**Zhentan Quan**
 
-BS, Mechanical Engineering, Zhejiang Sci-tech University 
+Master Student, (Co-supervised Prof. Wenbo Ding and Prof. Shengli Chen), Class of 2021 
 
-Reasearch Interests: Robotics and Energy harvesting
+Email:
+qzt21@mails.tsinghua.edu.cn
 
-Email: qzt21 AT mails.tsinghua.edu.cn
+## Research Interest
+Robotics and Energy harvesting
+## Education and Intern
 
-### Research Interest
-
-### Education and Intern
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Projects
-
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- 2021.9-NOW           M.E. in Tsinghua Shenzhen Internatinal graduate School, Tsinghua University.
+- 2021.7-2021.8        Research Intern in Tsien Excellence in Education Program summer School, **Xinstitute**,Tsinghua University.
+- 2020.9-2020.12       Research Intern in Decision Making & Reasoning Lab, Xbotpark Dongguang.
+- 2019.11-2019.11      Exchange student in Artificial intelligence field, National University of Singapore.
+- 2017.9-2021.6        B.S. in School of Artificial Intelligence and Automation, Zhejiang Sci-tech University, ZSTU.
 
 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-### Publications
+# Publications
 ## Patents
+[2]Stand-up wheelchair capable of changing walking mode[P]. Zhejiang：CN211835060U,2020-11-03.
 
+[1]Toilet aid with lifting device[P].China patent:CN111035509A, 2020-04-21.
 
 ### Awards
 
-2021, China National Scholarship.
+2021, Nomination Award for Top Ten College Students in Zhejiang Province(1/10).
 
-Kaggle Competitions Expert, Top 1,000 (0.67%).
+2021，National Scholarship Provincial Special Recommendation Eligibility(10 in student in Zhejiang Province).
 
-2020, National Second Prize in the 17th National Postgraduate Mathematical Modelling Competition.
+2020, China National Scholarship.
 
-2020, Second Prize Scholarship, Tsinghua University.
-
-2019, Outstanding Undergraduate, HUST.
-
-2018, First Prize in the 13th National Student Smart Car Competition, Wireless Energy Saving Category (National Champion).
-
-2018, First(Grand) Prize of Goodix Scholarship.
-
-2018, National Encouragement Scholarship, Ministry of Education in China.
-
-2018, Outstanding Individual of Innovation and Entrepreneurship Activities, HUST.
-
-2017, First Prize in the South China of the 12th National Student Smart Car Competition, Opto-electronic Balance Category.
+2020, Outstanding Undergraduate, ZSTU.(highest student honor in ZSTU)
 
 ### Activities and Support
 
