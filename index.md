@@ -1,10 +1,5 @@
 ## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/quanztx/quanzt.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 ### Zhentan Quan
 Master Student, (Co-supervised with Prof. Chen Shengli), Class of 2021
 
@@ -14,14 +9,15 @@ Reasearch Interests: Robotics and Energy harvesting
 
 Email: qzt21 AT mails.tsinghua.edu.cn
 
+### Research Interest
+
+### Education and Intern
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Projects
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
@@ -37,11 +33,31 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Publications
+## Patents
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/quanztx/quanzt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Awards
 
-### Support or Contact
+2021, China National Scholarship.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Kaggle Competitions Expert, Top 1,000 (0.67%).
+
+2020, National Second Prize in the 17th National Postgraduate Mathematical Modelling Competition.
+
+2020, Second Prize Scholarship, Tsinghua University.
+
+2019, Outstanding Undergraduate, HUST.
+
+2018, First Prize in the 13th National Student Smart Car Competition, Wireless Energy Saving Category (National Champion).
+
+2018, First(Grand) Prize of Goodix Scholarship.
+
+2018, National Encouragement Scholarship, Ministry of Education in China.
+
+2018, Outstanding Individual of Innovation and Entrepreneurship Activities, HUST.
+
+2017, First Prize in the South China of the 12th National Student Smart Car Competition, Opto-electronic Balance Category.
+
+### Activities and Support
+
