@@ -2,7 +2,11 @@
 
 ## **Zhentan Quan**
 
+<div align=center><img src="https://github.com/quanztx/quanztx.github.io/blob/gh-pages/cv_photo.jpeg" width="150" /></div>
+
 Master Student
+
+Smart Sensing and Robotics (SSR) Group @ Tsinghua
 
 Co-supervised by 
 
@@ -11,7 +15,7 @@ Prof. Wenbo Ding(Tsinghua-Berkery Shenzhen Institute)and
 Prof. Shengli Chen(Institute for Ocean Engineering)
 
 ## Research Interest
-Robotics and Energy harvesting
+Robotics,Sensing,Control and Energy harvesting
 ## Education and Intern
 
 - 2021.9-NOW,         M.E. in Tsinghua Shenzhen Internatinal graduate School, Tsinghua University.
@@ -30,13 +34,13 @@ Robotics and Energy harvesting
 
 ## Awards
 
-2021, Nomination Award for Top Ten College Students in Zhejiang Province(1/10).
+2021,Nomination Award for Top Ten College Students in Zhejiang Province(1/10).
 
-2021，National Scholarship Provincial Special Recommendation Eligibility(10 in student in Zhejiang Province).
+2021,National Scholarship Provincial Special Recommendation Eligibility(10 in student in Zhejiang Province).
 
-2020, China National Scholarship.
+2020,China National Scholarship.
 
-2020, Outstanding Undergraduate, ZSTU.(highest student honor in ZSTU)
+2020,Outstanding Undergraduate, ZSTU.(highest student honor in ZSTU)
 
 ## Contact
 Email:
