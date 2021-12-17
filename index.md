@@ -2,7 +2,7 @@
 
 ## **Zhentan Quan**
 
-<div align=center><img src="https://github.com/quanztx/quanztx.github.io/blob/gh-pages/cv_photo.jpeg" width="150" /></div>
+<div align=center><img src="https://s2.loli.net/2021/12/17/inM1YEkbLhFc3AR.jpg" width="150" /></div>
 
 Master Student
 
