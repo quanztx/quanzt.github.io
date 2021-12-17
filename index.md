@@ -8,6 +8,8 @@ Master Student
 
 Smart Sensing and Robotics (SSR) Group @ Tsinghua
 
+Internet of Things and Societal Cyber Physical Systems Lab (Lab-2c)
+
 Co-supervised by 
 
 Prof. Wenbo Ding(Tsinghua-Berkery Shenzhen Institute)and 
@@ -15,7 +17,8 @@ Prof. Wenbo Ding(Tsinghua-Berkery Shenzhen Institute)and
 Prof. Shengli Chen(Institute for Ocean Engineering)
 
 ## Research Interest
-Robotics,Sensing,Control and Energy harvesting
+Robotics, Sensing, Control and Energy harvesting
+
 ## Education and Intern
 
 - 2021.9-NOW,         M.E. in Tsinghua Shenzhen Internatinal graduate School, Tsinghua University.
@@ -44,6 +47,7 @@ Robotics,Sensing,Control and Energy harvesting
 
 ## Contact
 Email:
+
 qzt21@mails.tsinghua.edu.cn
 
 Address：
