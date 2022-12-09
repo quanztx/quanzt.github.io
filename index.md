@@ -20,7 +20,7 @@ Prof. Shengli Chen(Institute for Ocean Engineering)
 Robotics, Sensing, Control and Energy harvesting
 
 ## Education and Intern
-- 2022.7-2022.8,        Research Intern in Tsien Excellence in Education Program summer School,TA leader, **Xinstitute**,Shenzhen
+- 2022.7-2022.8,        Teaching Intern in Tsien Excellence in Education Program summer School,TA leader, **Xinstitute**,Shenzhen
 - 2021.9-NOW,         M.E. in Tsinghua Shenzhen Internatinal graduate School, Tsinghua University.
 - 2021.7-2021.8,        Research Intern in Tsien Excellence in Education Program summer School, **Xinstitute**,Shenzhen.
 - 2020.9-2020.12,       Research Intern in Entrepreneurial team,Xbotpark,Dongguang.
@@ -30,23 +30,26 @@ Robotics, Sensing, Control and Energy harvesting
 
 
 ## Publications
+### Conference
+[1]Chenchang Li#, Ziwu Song#, Zhentan Quan, Shilong Mũ, Wanxin Jin, Chenye Wu, Wenbo Ding*, “TacTID: Terrain Identification and Pose Estimation for Legged Robot with a High-performance Visuo-Tactile Sensor,” submitted.
+
 ### Patents
-[3]Chenchang Li#, Ziwu Song#, Zhentan Quan, Shilong Mũ, Wanxin Jin, Chenye Wu, Wenbo Ding*, “TacTID: Terrain Identification and Pose Estimation for Legged Robot with a High-performance Visuo-Tactile Sensor,” submitted.
+[1]Stand-up wheelchair capable of changing walking mode[P]. Zhejiang：CN211835060U,2020-11-03.
 
-[2]Stand-up wheelchair capable of changing walking mode[P]. Zhejiang：CN211835060U,2020-11-03.
+[2]Toilet aid with lifting device[P].China patent:CN111035509A, 2020-04-21.
 
-[1]Toilet aid with lifting device[P].China patent:CN111035509A, 2020-04-21.
+## Awards and Honors
+2022, Tsinghua University-level scholarship(Top 8% in Tsinghua University).
 
-## Awards
-2022, Tsinghua University-level scholarship(8% in Tsinghua University).
+2021,National Scholarship outstanding representative(100 out of undergraduates in China).
 
-2021,Nomination Award for Top Ten College Students in Zhejiang Province(1/10).
+2021,Nomination Award for Top Ten College Students in Zhejiang Province(10 out of students in Zhejiang Province).
 
-2021,National Scholarship Provincial Special Recommendation Eligibility(10 in student in Zhejiang Province).
+2021,National Scholarship Provincial Special Recommendation Eligibility(10 out of undergraduates in Zhejiang Province).
 
 2020,China National Scholarship.
 
-2020,Outstanding Undergraduate, ZSTU.(highest student honor in ZSTU)
+2020,Outstanding Undergraduate, ZSTU.(One out of all undergraduates in ZSTU)
 
 ## Contact
 Email:
